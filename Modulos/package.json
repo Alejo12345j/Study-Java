@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "modulos",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "scripts": {
+    "build": "rollup --config --watch"
+  },
+
+  "devDependencies": {
+    "rollup": "^3.29.1"
+  }
+}
